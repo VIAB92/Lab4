@@ -6,5 +6,6 @@ package com.viab.labs.lab4.program;
 public class MainProgram {
     public static void main(String[] args) {
         System.out.printf("This is for new branch");
+
     }
 }

@@ -8,6 +8,7 @@ import java.util.*;
  * Created by Viktor on 25.04.2015.
  */
 public class Matrix {
+    //comment for fictive commit
     private int[][] matrix;
 
     public Matrix(int[][] matrix) throws UnsupportedMatrixException {
