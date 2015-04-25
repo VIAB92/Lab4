@@ -5,6 +5,6 @@ package com.viab.labs.lab4.program;
  */
 public class BaseProgram {
     public static void main(String[] args) {
-
+        System.out.println("HELLO WORLD");
     }
 }
